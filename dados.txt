@@ -1,0 +1,35 @@
+Usuario
+    Nome
+    Sobrenome
+    Email
+    Sexo
+    Nascimento
+    Senha
+
+
+CARRINHO?? Carrinho sem usuario, porem salvo no navegador, talvez precise usar algo como $$SESION do php
+PS: Carrinho precisa de usuario mas precisa estar salvo ainda no navegador
+
+ROUPA
+    id
+    Nome
+    Preço
+    Qtde
+    Detalhes??
+    Informacoes??
+    TIPO??
+
+
+TIPO?? (Masculino, Fememenino)
+    id
+    Nome
+
+ROUPA_COR
+    id_Roupa
+    id_Cor
+
+
+Cor
+    id
+    Nome
+
